@@ -1,0 +1,6 @@
+pandas
+tqdm
+numpy
+bert4keras
+transformers
+torchcrf
